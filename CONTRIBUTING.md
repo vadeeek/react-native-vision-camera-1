@@ -1,7 +1,5 @@
 # Contributing
 
-## Guidelines
-
 1. Don't be rude.
 
 ## Get started
