@@ -5,7 +5,7 @@
 <h1 align="center">Vision Camera</h1>
 
 <div align="center">
-  <img src="docs/static/img/11.png" width="50%">
+  <img src="docs/static/img/11.png" width="100%">
   <br />
   <br />
   <blockquote><b>📸 The Camera library that sees the vision.</b></blockquote>
